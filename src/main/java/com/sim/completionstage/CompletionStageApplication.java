@@ -18,7 +18,9 @@ public class CompletionStageApplication {
 //        CompletionStageThenAcceptRunningExample.thenAcceptAsync();
 //        CompletionStageThenAcceptAsyncExecutorExample.thenAsync();
 //        CompletionStageThenApplyExample.thenApply();
-        CompletionStageThenComposeExample.thenCompose();
+//        CompletionStageThenComposeExample.thenCompose();
+//        CompletionStageThenRunExample.thenRun();
+        CompletionStageExceptionallyExample.exceptionally();
     }
 
 }
